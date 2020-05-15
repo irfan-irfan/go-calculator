@@ -1,2 +1,2 @@
 # go-calculator
-I create a calculator during COVID-19 times.
+Karena bosan saat pandemi COVID-19, saya membuat kalkulator agar otak saya tetap terasah.
